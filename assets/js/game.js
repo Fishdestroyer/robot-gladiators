@@ -93,4 +93,4 @@ var promptFight = window.prompt("Would you like to FIGHT or SKIP this battle? En
 // }
 
 
-//fight();
+fight();
